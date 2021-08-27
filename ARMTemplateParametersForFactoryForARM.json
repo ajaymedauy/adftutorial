@@ -1,0 +1,15 @@
+{
+		"factoryName": {
+			"value": "__adfName__"
+		},
+		"AzureBlobStorage1_properties_typeProperties_connectionString_secretName": {
+			"value": "__SAConnSecret__"
+		},
+		"AzureKeyVaultLS_properties_typeProperties_baseUrl": {
+			"value": "__KVName__"
+		},
+		"LS_AzureSqlDatabase_properties_typeProperties_connectionString_secretName": {
+			"value": "__SQLConnSecret__"
+		}
+	
+}
